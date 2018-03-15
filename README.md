@@ -31,6 +31,7 @@ constructor(){
 	unCheckBgColor='#FABE58'
 	checkedBgColor='#E87E04'
 /\> 
+  {this.state.checked === true ? console.log('Check' + this.state.checked) : console.log('un Check' + this.state.checked)}
 
   
 ```
