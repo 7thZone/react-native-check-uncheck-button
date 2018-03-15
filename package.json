@@ -1,0 +1,22 @@
+{
+  "name": "checkanduncheck",
+  "version": "1.0.0",
+  "description": "This is a react native resuable check uncheck button",
+  "main": "CheckUnCheck.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:amyogiji/react-native-check-uncheck-button.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "toogle button",
+    "check uncheck",
+    "react-native check uncheck"
+  ],
+  "author": "Anil Maurya <hello@anilmaurya.com>",
+  "license": "ISC"
+}
