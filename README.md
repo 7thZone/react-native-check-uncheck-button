@@ -7,7 +7,7 @@
 
   
 
-1) ``` import CheckBtn from './CheckBtn'; ```
+1) ``` import CheckUnCheck from './CheckUnCheck'; ```
 
 2) 
 ```
@@ -21,7 +21,7 @@ constructor(){
 
 3)  
 ```
-<CheckBtn
+<CheckUnCheck
 	onValueChange={(val)=> this.setState({ checked: val })}
 	text="second"
 	textColor="#ffffff"
