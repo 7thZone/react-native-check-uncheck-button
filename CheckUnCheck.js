@@ -40,7 +40,7 @@ export default class CheckUnCheck extends Component{
          } else {
              this.setState({
                 checked:false,
-             })
+             }, () => onValueChange(this.state.checked))
          }
        
     }
